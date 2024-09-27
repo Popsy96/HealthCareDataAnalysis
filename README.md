@@ -35,7 +35,7 @@ This analysis aims to improve **policy decisions**, raise **patient awareness**,
 
 ---
 
-### 🌟 [Explore the Interactive Dashboard](#) | [View Detailed Report](#)
+### 🌟 [Explore the Presentation](https://github.com/Popsy96/HealthCareDataAnalysis/blob/main/HealthCare_DataAnalysis_Report.pdf) | [View Detailed Report](https://github.com/Popsy96/HealthCareDataAnalysis/blob/main/Health_care_Provider_DataAnalysis_Report_poojit.pdf)
 
 ---
 
