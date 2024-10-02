@@ -40,8 +40,7 @@ This analysis aims to improve **policy decisions**, raise **patient awareness**,
 ---
 
 ## 💼 Skills Utilized:
-- **Data Analytics**: Python, SQL, Excel
-- **Data Visualization**: Tableau
+- **Data Analytics**: Excel
 - **Healthcare Analytics**: Cost analysis, Provider performance, Policy recommendations
 
 ---
